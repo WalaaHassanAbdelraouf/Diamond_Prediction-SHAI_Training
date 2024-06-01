@@ -6,11 +6,10 @@ This project aims to predict the prices of diamonds based on various attributes 
 
 1. [Project Overview](#project-overview)
 2. [Dataset](#dataset)
-3. [Installation](#installation)
-4. [Model Description](#model-description)
-5. [Evaluation](#evaluation)
-6. [Fine-Tuning](#fine-tuning)
-7. [Conclusion](#conclusion)
+3. [Model Description](#model-description)
+4. [Evaluation](#evaluation)
+5. [Fine-Tuning](#fine-tuning)
+6. [Conclusion](#conclusion)
 
 
 
