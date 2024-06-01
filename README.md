@@ -1,4 +1,4 @@
-# Diamond__Prices_Prediction
+# Diamond_Prices_Prediction
 
 This project aims to predict the prices of diamonds based on various attributes using machine learning techniques.
 
